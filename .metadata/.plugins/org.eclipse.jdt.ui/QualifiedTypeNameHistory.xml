@@ -38,4 +38,7 @@
     <fullyQualifiedTypeName name="java.lang.Override"/>
     <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="id.its.pbo.quadrilateral.Quadrilateral"/>
+    <fullyQualifiedTypeName name="twoDimensial.threeDimensialShape.Square"/>
+    <fullyQualifiedTypeName name="twoDimensial.threeDimensialShape.Shape"/>
+    <fullyQualifiedTypeName name="twoDimensial.threeDimensialShape.Triangle"/>
 </qualifiedTypeNameHistroy>
